@@ -63,7 +63,7 @@ salary-prediction-app/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rajatkumar2004/Employee-Salary-Prediction.git
+git clone https://github.com/your-username/Employee-Salary-Prediction.git
 cd Employee-Salary-Prediction
 ````
 
