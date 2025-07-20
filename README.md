@@ -63,8 +63,8 @@ salary-prediction-app/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/salary-prediction-app.git
-cd salary-prediction-app
+git clone[ https://github.com/your-username/salary-prediction-app.git](https://github.com/Rajatkumar2004/Employee-Salary-Prediction.git)
+cd Employee-Salary-Prediction
 ````
 
 ### 2. Create a Virtual Environment
